@@ -1,6 +1,6 @@
 # AxeSentry — Bitaxe monitor for iPhone
 
-<a href="https://apps.apple.com/us/app/axesentry/id6781810919"><img src="https://tools.applemarketingtools.com/api/badges/download-on-the-app-store/black/en-us" alt="Download on the App Store" height="48"></a>
+<a href="https://apps.apple.com/us/app/axesentry/id6781810919"><img src="https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store"></a>
 
 Monitor and control your **Bitaxe, NerdAxe, NerdQAxe and NMAxe** miners over your local
 Wi-Fi — hashrate, temperatures, alerts, solo block odds and one-tap pool switching.
